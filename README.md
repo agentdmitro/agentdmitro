@@ -1,11 +1,15 @@
-### 📊 Статистика профілю
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agentdmitro&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight)
+<!-- Profile README for YOUR_USERNAME -->
+<div align="center">
 
-### 🔥 Streak (безперервні контрибуції)
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=agentdmitro&theme=tokyonight&hide_border=true)
+---
 
-### 🧠 Топ мови в публічних репозиторіях
-<!-- Top Langs -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentdmitro&layout=compact&langs_count=8&theme=tokyonight)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/YOUR_USERNAME)  
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/YOUR_USERNAME)  
+
+</div>
